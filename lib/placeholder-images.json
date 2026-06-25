@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract tech background with neon lines",
+      "imageUrl": "https://picsum.photos/seed/awj1/1920/1080",
+      "imageHint": "abstract tech"
+    },
+    {
+      "id": "dashboard-preview",
+      "description": "Merchant dashboard interface mockup",
+      "imageUrl": "https://picsum.photos/seed/dash1/1200/800",
+      "imageHint": "software dashboard"
+    },
+    {
+      "id": "product-1",
+      "description": "Modern minimalist digital product",
+      "imageUrl": "https://picsum.photos/seed/p1/600/400",
+      "imageHint": "minimalist gadget"
+    },
+    {
+      "id": "product-2",
+      "description": "Premium physical product packaging",
+      "imageUrl": "https://picsum.photos/seed/p2/600/400",
+      "imageHint": "luxury package"
+    }
+  ]
+}
