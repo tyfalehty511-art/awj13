@@ -43,3 +43,10 @@ next-env.d.ts
 # firebase
 firebase-debug.log
 firestore-debug.log
+# ملفات البيئة والمفاتيح السرية
+.env
+.env.local
+
+# ملفات سجلات الأخطاء والـ Debug
+firebase-debug.log
+.modified
